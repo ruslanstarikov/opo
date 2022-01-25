@@ -1,0 +1,3 @@
+project=opo
+test=rspec
+template=erb
